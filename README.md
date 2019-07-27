@@ -2,5 +2,5 @@
 
 Hi Guys!
 
-Let's do some coding, shal we? :)
+Let's do some coding, shall we? :)
 
